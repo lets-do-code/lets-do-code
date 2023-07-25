@@ -2,7 +2,7 @@
  
  B.Tech 4th year from Moradabad Institute of Technology.
 
- Currently i'm working in EazOtel as a FrontEnd Developer. 
+ Currently i'm working in EazOtel as a Software Development Engineer Intern. 
  
  I’m interested in problem solving and currently learning Data Structure and Algorithms.
 
