@@ -1,8 +1,13 @@
  Hi, This is Abhijeet.
  
  B.Tech 4th year from Moradabad Institute of Technology.
+ 
+ Currently working as a Software Development Engineer at Eazotel Technologies.
 
- Currently i'm working in EazOtel as a Software Development Engineer Intern. 
+ I have total 1 year of experience in Software Development and I'm working on the Eazotel Booking Engine, Dashboard and Client website with the core Eazotel Team, Where I work on Reactjs, Node JS, HTML, CSS, 
+ tailwind CSS, Bootstrap and AWS code commit for collaborative development.
+
+ Also i have good communication skills.
  
  I’m interested in problem solving and currently learning Data Structure and Algorithms.
 
